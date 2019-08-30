@@ -1,0 +1,22 @@
+
+Nota: Las condiciones estan en orden así que cuando alguna es invalida las de abajo no se validaran
+-dead
+	* Que este vivo
+	* Que este muerto
+-invalidAge
+	* Cuando tenga -40
+	* Cuando tenga -1
+	* Cuando tenga 0
+-underAge
+	* Cuando tenga 17
+	* Cuando tenga 18
+	* Cuando tenga 5
+	* Cuando tenga 1
+-unidentifiedGender
+	* Cuando sea hombre
+	* Cuando sea mujer
+	* Cuando sea indefinido
+-valid
+	* Cuando tenga 19
+	* Cuando tenga 40
+
